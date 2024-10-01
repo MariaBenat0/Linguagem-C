@@ -34,7 +34,7 @@ int main() {
             printf("1kg de Batata.\n");
             printf("1kg de Cenoura. \n");
             printf("1kg de Couve. \n");
-            printf("Preço total da cesta: R$ 27,00");
+            printf("PreÃ§o total da cesta: R$ 27,00");
         break;
 
         case 5:
