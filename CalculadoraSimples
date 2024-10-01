@@ -8,19 +8,19 @@ int main() {
   switch (operacao) {
     case '+':
       printf("Soma\n");
-      // Implementar c骴igo para pegar os n鷐eros e somar
+      // Implementar c贸digo para pegar os n煤meros e somar
       break;
     case '-':
       printf("Subtracao\n");
-      // Implementar c骴igo para pegar os n鷐eros e subtrair
+      // Implementar c贸digo para pegar os n煤meros e subtrair
       break;
     case '*':
       printf("Multiplicacao\n");
-      // Implementar c骴igo para pegar os n鷐eros e multiplicar
+      // Implementar c贸digo para pegar os n煤meros e multiplicar
       break;
     case '/':
       printf("Divisao\n");
-      // Implementar c骴igo para pegar os n鷐eros e dividir (verificar divis鉶 por zero)
+      // Implementar c贸digo para pegar os n煤meros e dividir (verificar divis茫o por zero)
       break;
     default:
       printf("Operacao invalida!\n");
