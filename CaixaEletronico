@@ -5,7 +5,7 @@ int main() {
     int opcao = 0;
     int valor;
 
-    printf("Seja bem-vindo ao Caixa Eletrônico!\n");
+    printf("Seja bem-vindo ao Caixa EletrÃ´nico!\n");
     printf("1 - Ver Saldo\n");
     printf("2 - Fazer Saque\n");
     printf("3 - Fazer Deposito\n");
@@ -15,7 +15,7 @@ int main() {
     scanf("%i", &opcao);
 
     if (opcao == 1) {
-        printf("Seu saldo é: R$%d\n", saldo);
+        printf("Seu saldo Ã©: R$%d\n", saldo);
     } else if (opcao == 2) {
         printf("Fale o valor que deseja sacar: R$");
         scanf("%d", &valor);
