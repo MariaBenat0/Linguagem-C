@@ -4,7 +4,7 @@ int main() {
 
   int usuario, qntlivros , resultado ;
 
-    printf("BEM VINDO A BIBIOTECA DIGITAL!\n");
+    printf("BEM VINDO A BIBLIOTECA DIGITAL!\n");
     printf("Qual tipo de usuario voce eh?");
     printf("\n");
     printf("Digite 1 - Aluno\n");
