@@ -19,7 +19,7 @@ int main() {
         printf(" [1] O Pequeno principe.\n");
         printf(" [2] Os sete maridos de Evelyn Hugo\n");
         printf(" [3] Memorias postulas.\n");
-        printf(" [4] As historias que os jornais n„o contam.\n");
+        printf(" [4] As historias que os jornais n√£o contam.\n");
     break;
 
     case 2:
@@ -30,7 +30,7 @@ int main() {
     break;
 
     case 3:
-        printf("Acesso · biblioteca: \n");
+        printf("Acesso √° biblioteca: \n");
         printf("SEG a SEXTA: 7:00 as 18:00\n");
         printf("SAB e DOM: 7:00 as 11:30\n");
     break;
@@ -84,7 +84,7 @@ int main() {
             break;
 
             case 4:
-                printf("NOME DO LIVRO: As historias que os jornais n„o contam.");
+                printf("NOME DO LIVRO: As historias que os jornais n√£o contam.");
                 printf("\n");
                 printf("CPF: %i" , cpf);
                 devolucao= datapegou + 5;
