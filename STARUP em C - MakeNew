@@ -37,8 +37,8 @@ int main()  {
         else if (etapa2== 2 ){
             printf("\n");
             printf("SUSTENTABILIDADE. \n");
-            printf("Para esse tipo de problema dentro de um empresa, em relacao a estrutura fisica indicamos implementaÁao de \n ") ;
-            printf("iluminaÁ„o LED, fontes de energia renovaveis para reduzir dependencia de combustiveis fosseis e emissao de \n ");
+            printf("Para esse tipo de problema dentro de um empresa, em relacao a estrutura fisica indicamos implementa√ßao de \n ") ;
+            printf("ilumina√ß√£o LED, fontes de energia renovaveis para reduzir dependencia de combustiveis fosseis e emissao de \n ");
             printf("carbono, programas de reciclagem e compostagem para reducao de residuos , reducao de uso de produtos nocivos,\n ");
             printf("compra de equipamentos energeticamente eficientes.\n");
             printf("Em caso de duvida entre em contato conosco pelo nosso numero: (14)99633-8557 \n");
@@ -47,12 +47,12 @@ int main()  {
         else if (etapa2 == 3) {
             printf("\n");
             printf("COMUNICACAO. \n");
-            printf("Nos indicaremos que a empresa estabeleÁa canais de comunicaÁ„o eficientes para diferentes tipos de");
+            printf("Nos indicaremos que a empresa estabele√ßa canais de comunica√ß√£o eficientes para diferentes tipos de");
             printf("informacoes e propositos, em relacao aos funcionarios esperamos que oferecam treinamentos de workshop");
             printf("sobre habilidades de comunicacao, construiram uma relacao de consenso na resolucao dos conflitos, ");
             printf("estabelecer diretrizes e politicas da empresa, incluindo prazos e protocolos, utilizar ferramentas ") ;
             printf("de comunicacao que facilitem a troca de informacoes entre os funcionarios, como softwares de gestao ");
-            printf("de projetos(como o Business Map por exemplo) , oferecer sessıes regulares de feedbacks, dar abertura");
+            printf("de projetos(como o Business Map por exemplo) , oferecer sess√µes regulares de feedbacks, dar abertura");
             printf("para diferentes opinioes, motivar funcionarios e usufruir de  foruns de discussao online( como o");
             printf("Reddit, entre outras diversas opcoes). \n") ;
             printf("Em caso de duvida entre em contato conosco pelo nosso numero: (14)99633-8557 \n");
@@ -84,7 +84,7 @@ int main()  {
         printf("\n");
         printf("ORCAMENTOS: \n");
         printf("Apenas 1 servico: 200.00 \n");
-        printf("2 serviÁos: 350.00 \n");
+        printf("2 servi√ßos: 350.00 \n");
         printf("3 ou mais servicos: 500.00 \n");
     }
 
